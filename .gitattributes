@@ -1,0 +1,12 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*.uasset filter=lfs merge=lfs -diff -text
+*.umap filter=lfs merge=lfs -diff -text
+*.mp4 filter=lfs merge=lfs -diff -text
+*.mov filter=lfs merge=lfs -diff -text
+*.st filter=lfs merge=lfs -diff -text
+*.jpg filter=lfs merge=lfs -diff -text
+*.png filter=lfs merge=lfs -diff -text
+*.fbx filter=lfs merge=lfs -diff -text
+*.zip filter=lfs merge=lfs -diff -text
+*.voxelsave filter=lfs merge=lfs -diff -text
