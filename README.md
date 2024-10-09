@@ -5,9 +5,9 @@ Multiplayer Level Editor for Unreal Engine
 
 [Demo Video](https://youtu.be/1ATR_H6iU7c)
 
-<img src="Documentation/Images/Showcase_0.png" width=100% height=100% />
+<img src="Documentation/Images/showcase_4players.png" width=100% height=100% />
 
-<img src="Documentation/Images/Showcase_1.png" width=100% height=100% />
+<img src="Documentation/Images/showcase_ui.png" width=100% height=100% />
 
 ## Credits
 
